@@ -4,7 +4,7 @@ public:
         int sum ;
         int rem ;
         while(n>6){
-            sum = 0;
+            sum = 0; 
             while(n>0){
                 rem = n % 10;
                 sum = sum + rem*rem ;
