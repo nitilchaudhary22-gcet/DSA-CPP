@@ -10,8 +10,8 @@ This repository contains my learning notes, problem-solving practice, and soluti
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | C++ Basics | 🟢 In Progress |
-| 02 | Arrays | ⚪ Upcoming |
+| 01 | C++ Basics | 🟢 Completed|
+| 02 | Arrays | 🟡 In Progress |
 | 03 | Strings | ⚪ Upcoming |
 | 04 | Recursion | ⚪ Upcoming |
 | 05 | Linked List | ⚪ Upcoming |
