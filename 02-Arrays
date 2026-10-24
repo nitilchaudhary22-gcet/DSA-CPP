@@ -1,0 +1,17 @@
+
+# 📊 Arrays - DSA in C++
+
+This folder contains my Array problems solved in C++ while learning Data Structures and Algorithms.
+
+## 🧩 LeetCode Problems
+
+| Problem No. | Problem Name | Difficulty | Status |
+|---|---|---|---|
+| 1480 | Running Sum of 1D Array | Easy | ✅ Solved |
+
+## 📚 Concepts Learned
+- Array traversal
+- Indexing
+- Running sum
+- Loops with arrays
+
